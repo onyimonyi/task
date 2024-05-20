@@ -3,7 +3,7 @@ FOLLOW THE BELLOW STEPS TO RUN THE FILE
 
 
 cd ./task folder
-run task\Scripts\activate.bat to activate virtual environment if you re on winows or check the ulternative if youre on mac
+run task\Scripts\activate.bat to activate virtual environment if you re on winows or check the ulternative if youre on mac.
 install atleat python 3
 pip install -r requirements.txt
         or
