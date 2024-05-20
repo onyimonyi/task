@@ -22,3 +22,10 @@ the forer does the whole process once.
 then cd ./project .
 run python manage.py runserver.
 then its up
+
+http://localhost:8000/api/ 
+
+the above is the base endoiont
+below is the API documentation link
+
+http://localhost:8000/api/docs/
